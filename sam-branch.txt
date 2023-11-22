@@ -1,0 +1,7 @@
+Parasect uses Bullet Seed on Fezandipiti, roll for hit number (1-35 = two hits, 36-70 = three hits, 71-85 = 4 hits, 86-100 = five hits)
+First hit breaks sub (Announce regardless of final %)
+2nd hit: Fezandipiti takes 134HP (42.2%)
+3rd hit: Fezandipiti takes 134HP (42.2%) - ends here: Fezandipiti lost a total of 268HP (84.5%)
+4th hit: Fezandipiti takes 134HP (42.2%) - ends here: KOs
+5th hit: Fezandipiti takes 134HP (42.2%) - ends here: KOs
+If Parasect KOs, gains Atk, Def, and SpDef for the KO
