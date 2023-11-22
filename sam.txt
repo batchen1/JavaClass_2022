@@ -1,0 +1,44 @@
+TURN 2
+
+Glastrier uses Protect
+Sawsbuck uses grassy glide on Delcatty, KOs, sawsbuck gains Atk+2 and Def+1, Rillaboom gains Attack+1 for the assist
+SPEED TIE between Cetitan A and Cetitan B, doesn’t matter
+Cetitan A uses Ice Shard on Porygon-Z doing 70HP (22.5%)
+Cetitan B uses Ice Shard on Lycanroc-Midnight, dealing 67HP (21.5%)
+Rillaboom uses Grassy Glide on Jumpluff, EIPP clause activates, KO, Rillaboom gains Atk, Def, SpDef
+Jumpluff uses Sunny Day, the sunlight turns harsh
+Frosmoth uses Blizzard (10% freeze) on Kleavor and Porygon-Z, Kleavor KOd, Porygon-Z: 222hp (71.4%), Frosmoth gains Def+3
+SPEED TIE between scyther and cryogonal, does NOT matter
+Scyther uses aerial ace on Lycanroc-Midnight, 10% focus band live, if not then KO, Scyther gains Def+2, Atk+1
+Cryogonal uses Blizzard (10% freeze) on Reuniclus A and Lurantis, dealing Reuniclus A 105 HP (29%), Lurantis 33 HP (11.7%)
+SPEED TIE between salamence, Mr Mime, Slaking, and regigigas, Does NOT matter
+Salamence uses shadow claw (roll for crit) on Porygon-Z, both crit and no crit KO, salamence gains Def, Spdef, Atk, Cetitan A gains +1 Atk from assist
+Salamence’s Moxie increases it’s Atk by one
+Mr Mime uses reflect on itself and oranguru
+Slaking is recharging
+Regigigas uses Zen Headbutt on Reuniclus A, dealing 286hp (79%) 
+Fezandipiti uses dazzling gleam on Reuniclus A and Lurantis, dealing Reuniclus A 60 HP (16.6%), and 57 HP (20.3%) to Lurantis 
+Fezandipiti’s toxic chain, 30% chance Lurantis gets badly poisoned 
+SPEED TIE between furret and Porygon-Z, does not matter
+Porygon-Z uses Tri-Attack on a fainted target
+Furret uses brick break on Reuniclus B, Reflect is broken, then deals Reuniclus B 178HP (49.3%)
+Articuno uses Blizzard (10% freeze) on Farigiraf and Glastrier, deals 307hp (80.5%) to Farigiraf, fails on Glastrier due to protect
+Necrozma uses hyper voice on Farigiraf and a fainted target, deals Farigiraf 86 HP (22.5%)
+ACC CHECK Gogoat uses Zen Headbutt (90% hit) on Reuniclus A, KOs, Gogoat gains Def and 2 SpDef for the KO, Regigigas gains Atk for the assist, Fezandipiti gains Def for the assist, Cryogonal gains Def for the assist.
+Walrein uses stockpile, gains Def and Spdef
+SPEED TIE between Oranguru and Abomasnow, does NOT matter 
+Oranguru uses Instruct on Articuno
+Articuno uses Blizzard (10% freeze) on Farigiraf and Glastrier, KOs Farigiraf, fails on Glastrier due to protect, Articuno gains SpA Spdef Def for the KO, Oranguru gains +1 Def for the assist
+Abomasnow uses Bullet Seed on Parasect roll for hit number (1-35 = two hits, 36-70 = three hits, 71-85 = 4 hits, 86-100 = five hits)
+First hit breaks sub (Announce regardless of final %) 
+2nd hit: Parasect takes 136hp (52%) - ends here: Parasect lost a total of 136hp (52%)
+3rd hit: Parasect takes 136hp (52%) - ends here: Parasect lost a total of 272 HP (104.2%)
+4th and 5th hit: KO, Abomasnow gains SpDef, SpAtk, Def
+Aurorus uses return on a fainted target 
+Dudunsparce uses uproar on two fainted targets :/
+Baxcalibur uses Icicle Spear on a fainted target
+Lurantis uses Superpower on Reuniclus B, KOs, Lurantis’s Atk and Def go up by one from contrary, Does not get any buffs from KOB, heals to 100% from KOB, Ferret gains Spe from the assist
+Wobbufet uses Destiny Bond
+Parasect is confused, 33% chance it hits itself, if it hits itself in its confusion it takes 72hp (27.6%), if it doesn't then >
+Parasect uses Leech Seed on Slaking, Slaking is seeded
+Greedent uses amnesia, Greedent’s SpDef rises sharply
